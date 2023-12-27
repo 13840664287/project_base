@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\bin\Debug\Entity.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\bin\Debug\Entity.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\obj\Debug\Entity.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\IOControl\Entity\obj\Debug\Entity.pdb
